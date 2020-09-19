@@ -1,2 +1,2 @@
 # hyperblog
-Practica del curso de GitHub de Platzi
+*Practica del curso de GitHub de Platzi*:smile: :smile:
