@@ -7,3 +7,5 @@
 - como hacer un repositorio online. 
 - hacer ramas y fucionar las ramas .
 - buenas practicas.
+
+# aprendiendo  git stash
