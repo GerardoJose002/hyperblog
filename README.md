@@ -11,3 +11,4 @@
 # aprendiendo  git stash
 
 # tambien sobre git cherry-pick
+- haciendo un ultimo commit
