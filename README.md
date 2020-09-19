@@ -9,3 +9,5 @@
 - buenas practicas.
 
 # aprendiendo  git stash
+
+# tambien sobre git cherry-pick
