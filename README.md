@@ -8,11 +8,8 @@
 - hacer ramas y fucionar las ramas .
 - buenas practicas.
 
-<<<<<<< HEAD
 # aprendiendo  git stash
-=======
 # aprendiendo  git stash
 
 # tambien sobre git cherry-pick
 - haciendo un ultimo commit
->>>>>>> readme
